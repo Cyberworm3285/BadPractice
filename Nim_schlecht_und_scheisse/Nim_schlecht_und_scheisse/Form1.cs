@@ -35,15 +35,12 @@ namespace Nim_schlecht_und_scheisse
         private void add(int a)
         {
             label2.Text = "";
-            if (label1.Text.Length + a >= 11) loose();
-            else label1.Text += new string('O',a);
+            if (label1.Text.Length + a >= 11)
+            {
+                label1.Text = "";
+                label2.Text = "du hast verloren";
+            }
+            else label1.Text += new string('O', a);
         }
-
-        private void loose()
-        {
-            label1.Text = "";
-            label2.Text = "du hast verloren";
-        }
-
     }
 }
