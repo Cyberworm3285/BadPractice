@@ -1,0 +1,9 @@
+C:\Users\cyber\OneDrive\Dokumente\Visual Studio 2015\Projects\TextAdventure\Nim_schlecht_und_scheisse\Nim_schlecht_und_scheisse\bin\Debug\Nim_schlecht_und_scheisse.exe.config
+C:\Users\cyber\OneDrive\Dokumente\Visual Studio 2015\Projects\TextAdventure\Nim_schlecht_und_scheisse\Nim_schlecht_und_scheisse\bin\Debug\Nim_schlecht_und_scheisse.exe
+C:\Users\cyber\OneDrive\Dokumente\Visual Studio 2015\Projects\TextAdventure\Nim_schlecht_und_scheisse\Nim_schlecht_und_scheisse\bin\Debug\Nim_schlecht_und_scheisse.pdb
+C:\Users\cyber\OneDrive\Dokumente\Visual Studio 2015\Projects\TextAdventure\Nim_schlecht_und_scheisse\Nim_schlecht_und_scheisse\obj\Debug\Nim_schlecht_und_scheisse.csprojResolveAssemblyReference.cache
+C:\Users\cyber\OneDrive\Dokumente\Visual Studio 2015\Projects\TextAdventure\Nim_schlecht_und_scheisse\Nim_schlecht_und_scheisse\obj\Debug\Nim_schlecht_und_scheisse.Form1.resources
+C:\Users\cyber\OneDrive\Dokumente\Visual Studio 2015\Projects\TextAdventure\Nim_schlecht_und_scheisse\Nim_schlecht_und_scheisse\obj\Debug\Nim_schlecht_und_scheisse.Properties.Resources.resources
+C:\Users\cyber\OneDrive\Dokumente\Visual Studio 2015\Projects\TextAdventure\Nim_schlecht_und_scheisse\Nim_schlecht_und_scheisse\obj\Debug\Nim_schlecht_und_scheisse.csproj.GenerateResource.Cache
+C:\Users\cyber\OneDrive\Dokumente\Visual Studio 2015\Projects\TextAdventure\Nim_schlecht_und_scheisse\Nim_schlecht_und_scheisse\obj\Debug\Nim_schlecht_und_scheisse.exe
+C:\Users\cyber\OneDrive\Dokumente\Visual Studio 2015\Projects\TextAdventure\Nim_schlecht_und_scheisse\Nim_schlecht_und_scheisse\obj\Debug\Nim_schlecht_und_scheisse.pdb
